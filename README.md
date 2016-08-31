@@ -1,2 +1,2 @@
 # matlab-lbfgs
-Pure matlab implementation of L-BFGS
+This is a pure matlab implementation of L-BFGS that provides function call similar to fminunc.
